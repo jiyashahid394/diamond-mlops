@@ -7,3 +7,4 @@ champion.pkl
 model_latest.pkl
 metrics.json
 predictions.csv
+/diamonds.csv
