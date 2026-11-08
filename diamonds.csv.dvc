@@ -1,5 +1,5 @@
 outs:
-- md5: 699df25e69ac2961fe6608cb9a4a88b4
-  size: 6160
+- md5: 8520e8b11d70c8a9d54a56927b1eefe1
+  size: 6774
   hash: md5
   path: diamonds.csv
